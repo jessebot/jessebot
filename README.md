@@ -13,13 +13,13 @@ favorites:
   projects: ['onboardme', 'smol_k8s_homelab', 'argocd', 'k8up']
 ```
 
-Feel free to reach out! I am extremely active on GitLab and GitHub as I really care about not only documenting my work, but making it available for use for others in the future. I fix minor bugs and documentation issues in external open source repos, but the two most often updated documentation websites I maintain are currently:
+I'm extremely active on GitLab and GitHub as I really care about not only documenting my work, but making it available for use for others in the future. This includes fixing documentation and minor bugs in external repos. I also regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting. My most actively maintained personal repos are: 
 
-|Site|Why|
+|Repo|Why|
 |:---:|:---|
-| [smol_k8s_homelab](https://jessebot.github.io/smol_k8s_homelab/) | Docs for everything I know about k8s that I want others to know as well |
-| [onboardme](https://jessebot.github.io/onboardme) | Docs for everything I know about desktops and android |
-
+| [smol_k8s_homelab](https://github.com/jessebot/smol_k8s_homelab) | Quickly installs a small distribution of k8s, as well as [docs](https://jessebot.github.io/smol_k8s_homelab/) for somethings I know about k8s. |
+| [onboardme](https://github.com/jessebot/onboardme) | Onboards me to macOS or Debian, as well as [docs](https://jessebot.github.io/onboardme) for everything I know about personal computing. |
 
 Right now, I'm playing with Nextcloud and so this is a pretty good desciption of what I'm up to:
-<img src="./nextcloud_on_k8s.jpg">
+
+<img src="./nextcloud_on_k8s.jpg" width='400'>
