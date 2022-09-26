@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Jesse Hitch Resume
+tagline:          'For when you need a evops Engineer.'
+description:      'Senior DevOps/Platform Engineer based in Amsterdam, specialized in automation using IaC, CI/CD, and Python/Go. Passionate about microservice architecture that’s highly available, scalable, and fault tolerant via kubernetes in local/hybrid/fully remote environments.'
+url:              https://jessebot.work
+baseurl:          /
+
+author:
+  name:           'Jesse Hitch'
+  url:            https://jessebot.work
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/jessebot/jessebot
