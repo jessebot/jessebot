@@ -6,7 +6,6 @@ core_info:
   pronouns: 'he/him'
   resume_website: 'https://jessebot.work'
   gitlab: 'https://gitlab.com/jessebot'
-  linkedin: Not currently accepting job offers
   
 favorites:
   food: ['black sesame coconut ice cream', 'falafel', 'hummus', 'saag tofu/veggie kofta']
