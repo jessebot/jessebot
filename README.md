@@ -17,7 +17,7 @@ I'm extremely active on GitLab and GitHub as I really care about not only docume
 |Repo|Why|
 |:---:|:---|
 | [smol_k8s_homelab](https://github.com/jessebot/smol_k8s_homelab) | Quickly installs a small distribution of k8s (Kubernetes), as well as [docs](https://jessebot.github.io/smol_k8s_homelab/) for somethings I know about k8s. |
-| [onboardme](https://github.com/jessebot/onboardme) | Onboards me to macOS or Debian, as well as [docs](https://jessebot.github.io/onboardme) for everything I know about personal computing. |
+| [onboardme](https://github.com/jessebot/onboardme) | Environment setup for macOS or Debian based distros, as well as [docs](https://jessebot.github.io/onboardme) for everything I know about personal computing. |
 
 Right now, I'm playing with Nextcloud and so this is a pretty good desciption of what I'm up to:
 
