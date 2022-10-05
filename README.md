@@ -4,7 +4,6 @@
 ---
 core_info:
   pronouns: 'he/him'
-  resume_website: 'https://jessebot.work'
   gitlab: 'https://gitlab.com/jessebot'
   
 favorite:
