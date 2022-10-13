@@ -9,7 +9,7 @@ core_info:
 favorite:
   projects:
     - onboardme
-    - smol_k8s_homelab
+    - smol_k8s_lab
     - argocd
     - k8up
   languages:
