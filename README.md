@@ -23,7 +23,7 @@ favorite:
     - 'most anything with tofu'
 ```
 
-I'm extremely active on GitLab and GitHub as I really care about not only documenting my work, but making it available for use for others in the future. This includes fixing documentation and minor bugs in external repos. I also regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting. My most actively maintained personal repos are: 
+I'm extremely active on GitLab and GitHub as I really care about not only documenting my work, but making it available for use for others in the future. This includes fixing documentation and minor bugs in external repos. I also regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting. My most actively maintained personal repos are the chart below.
 
 | Repo | Why |
 |:----:|:----|
