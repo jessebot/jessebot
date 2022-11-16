@@ -1,27 +1,32 @@
-### Hoi friends 💙
-
 ```yaml
 ---
 core_info:
   pronouns: 'he/him'
   gitlab: 'https://gitlab.com/jessebot'
-  notable_projects:
-    - onboardme
-    - smol_k8s_lab
   
 favorite:
-  languages:
-    programming:
+  tech:
+    trendy_buzz_words:
+      - kubernetes
+      - devx
+      - cicd
+    languages:
       - python
       - golang
       - bash
   food:
     - 'black sesame coconut ice cream'
-    - 'falafel and hummus'
+    - 'pistachio ice cream'
+    - 'persimmons'
+    - 'falafel'
+    - 'hummus'
     - 'most anything with tofu'
 ```
 
-My most actively maintained personal repos are [onboardme][0], a cross-platform daily driver desktop setup environment setup tool, complete with [manuals][1], and [smol_k8s_lab][2], a tool to quickly install a small distro of k8s as well as [docs][3] for tips, tricks, and tutorials.
+#### Currently working on
+💻 [onboardme][0], a cross-platform daily driver desktop setup environment setup tool, complete with [manuals][1].
+
+🧸 [smol_k8s_lab][2], a tool to quickly install a small distro of k8s as well as [docs][3] for tips, tricks, and tutorials.
 
 I also regularly update my [star lists][4] with projects I find interesting.
 
