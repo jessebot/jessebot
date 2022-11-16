@@ -5,13 +5,11 @@
 core_info:
   pronouns: 'he/him'
   gitlab: 'https://gitlab.com/jessebot'
-  
-favorite:
-  projects:
+  notable_projects:
     - onboardme
     - smol_k8s_lab
-    - argocd
-    - k8up
+  
+favorite:
   languages:
     programming:
       - python
@@ -23,13 +21,12 @@ favorite:
     - 'most anything with tofu'
 ```
 
-I'm extremely active on GitLab and GitHub as I really care about not only documenting my work, but making it available for use for others in the future. This includes fixing documentation and minor bugs in external repos. I also regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting. My most actively maintained personal repos are the chart below.
+My most actively maintained personal repos are [onboardme][0], a cross-platform daily driver desktop setup environment setup tool, complete with [manuals][1], and [smol_k8s_lab][2], a tool to quickly install a small distro of k8s as well as [docs][3] for tips, tricks, and tutorials.
 
-| Repo | Why |
-|:----:|:----|
-| [smol_k8s_lab](https://github.com/jessebot/smol_k8s_lab) | Quickly installs a small distribution of k8s (Kubernetes), as well as [docs](https://jessebot.github.io/smol_k8s_homelab/) for somethings I know about k8s. |
-| [onboardme](https://github.com/jessebot/onboardme)           | Environment setup for macOS or Debian based distros, as well as [docs](https://jessebot.github.io/onboardme) for everything I know about personal computing. |
+I also regularly update my [star lists][4] with projects I find interesting.
 
-Right now, I'm playing with self hosted k8s tooling, and so this is a pretty good desciption of what I'm up to:
-
-<img src="./nextcloud_on_k8s.jpg" width='400'>
+[0]: https://github.com/jessebot/onboardme "onboardme"
+[1]: https://jessebot.github.io/onboardme "onboardme docs"
+[2]: https://github.com/jessebot/smol_k8s_lab "smol_k8s_lab"
+[3]: https://jessebot.github.io/smol_k8s_lab "smol_k8s_lab docs"
+[4]: https://github.com/jessebot?tab=stars "stars list"
