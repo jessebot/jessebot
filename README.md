@@ -26,12 +26,12 @@ favorite:
 #### Currently working on
 💻 [onboardme][0], a cross-platform daily driver desktop setup environment setup tool, complete with [manuals][1].
 
-🧸 [smol_k8s_lab][2], a tool to quickly install a small distro of k8s as well as [docs][3] for tips, tricks, and tutorials.
+🧸 [smol-k8s-lab][2], a tool to quickly install a small distro of k8s as well as [docs][3] for tips, tricks, and tutorials.
 
 I also regularly update my [star lists][4] with projects I find interesting.
 
 [0]: https://github.com/jessebot/onboardme "onboardme"
 [1]: https://jessebot.github.io/onboardme "onboardme docs"
-[2]: https://github.com/jessebot/smol_k8s_lab "smol_k8s_lab"
-[3]: https://jessebot.github.io/smol_k8s_lab "smol_k8s_lab docs"
+[2]: https://github.com/jessebot/smol-k8s-lab "smol-k8s-lab"
+[3]: https://jessebot.github.io/smol-k8s-lab "smol-k8s-lab docs"
 [4]: https://github.com/jessebot?tab=stars "stars list"
