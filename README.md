@@ -2,23 +2,17 @@
 ---
 core_info:
   pronouns: 'he/him'
-  gitlab: 'https://gitlab.com/jessebot'
-  
+  gitlab: 'https://gitlab.com/jessebot
 favorite:
   tech:
-    trendy_buzz_words:
-      - kubernetes
-      - devx
-      - cicd
-    languages:
-      - python
-      - golang
-      - bash
+    - python
+    - kubernetes
+  small_talk_prompts:
+    - 'So, what tools do you use in the terminal?'
+    - 'Play any wholesome videogames lately?'
   food:
     - 'black sesame or pistachio coconut ice cream'
-    - 'Mountains Spicy Mushroom Sauce'
     - 'persimmons'
-    - 'falafel'
     - 'hummus'
     - 'most anything with tofu'
 ```
