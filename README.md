@@ -1,12 +1,11 @@
 ```yaml
----
 core_info:
   pronouns: 'he/him'
-  gitlab: 'https://gitlab.com/jessebot
+  gitlab: 'https://gitlab.com/jessebot'
 favorite:
   tech:
-    - python
-    - kubernetes
+    - 'python'
+    - 'kubernetes'
   small_talk_prompts:
     - 'So, what tools do you use in the terminal?'
     - 'Play any wholesome videogames lately?'
