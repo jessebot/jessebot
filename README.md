@@ -6,6 +6,7 @@ favorite:
   tech:
     - 'python'
     - 'kubernetes'
+    - 'nextcloud'
   small_talk_prompts:
     - 'So, what tools do you use in the terminal?'
     - 'Play any wholesome videogames lately?'
