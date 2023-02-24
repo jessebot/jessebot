@@ -2,6 +2,7 @@
 core_info:
   pronouns: 'he/him'
   gitlab: 'https://gitlab.com/jessebot'
+  employed: true
 favorite:
   tech:
     - 'python'
@@ -19,8 +20,8 @@ favorite:
 
 #### Currently working on
 
-|     Project       | Description |
-|:-----------------:|:------------| 
+|     Project       | Description                                                                       |
+|:-----------------:|:----------------------------------------------------------------------------------| 
 | 💻 [onboardme]    | Cross-platform daily driver desktop environment CLI setup tool, with [manuals][1].|
 | 🧸 [smol-k8s-lab] | CLI tool to quickly install a slim distro of k8s.                                 |
 
