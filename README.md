@@ -1,6 +1,5 @@
 ```yaml
 core_info:
-  pronouns: 'he/him'
   gitlab: 'https://gitlab.com/jessebot'
   employed: true
 favorite:
