@@ -1,6 +1,5 @@
 ```yaml
 core_info:
-  gitlab: 'https://gitlab.com/jessebot'
   employed: true
 favorite:
   tech:
