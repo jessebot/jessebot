@@ -3,18 +3,18 @@ core_info:
   employed: true
 favorite:
   tech:
-    - 'python'
-    - 'kubernetes'
-    - 'nextcloud'
+    - python
+    - kubernetes
+    - nextcloud
     - 'slim cuda images'
-    - 'neovim
+    - neovim
   small_talk_prompts:
     - 'So, what tools do you use in the terminal?'
     - 'Play any wholesome videogames lately?'
   food:
     - 'black sesame or pistachio coconut ice cream'
-    - 'persimmons'
-    - 'hummus'
+    - persimmons
+    - hummus
     - 'most anything with tofu'
 ```
 
