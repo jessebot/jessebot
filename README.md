@@ -6,6 +6,8 @@ favorite:
     - 'python'
     - 'kubernetes'
     - 'nextcloud'
+    - 'slim cuda images'
+    - 'neovim
   small_talk_prompts:
     - 'So, what tools do you use in the terminal?'
     - 'Play any wholesome videogames lately?'
