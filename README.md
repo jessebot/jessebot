@@ -8,19 +8,24 @@ favorite:
     - nextcloud
     - 'slim cuda images'
     - neovim
+    - mastodon
   small_talk_prompts:
     - 'So, what tools do you use in the terminal?'
     - 'Play any wholesome videogames lately?'
   food:
-    - 'black sesame or pistachio coconut ice cream'
-    - persimmons
+    ice_cream:
+      - 'black sesame'
+      - pistachio
+    fruit:
+      - persimmons
+      - avocado
     - hummus
     - 'most anything with tofu'
 ```
 
 #### Currently working on
-Pinned projects below, but you can also find me following up on various helm chart repos (k8up, ArgoCD, etc), or talking about images in terminal emulator/multiplexer repos. Huge thank you to the open source community for helping to make my dreams come true (mostly self hosted puppy gifs in my terminal... at scale 🤷).
+Disconnecting from Google/Twitter in every possible way, while maintaining secure and reliable open source infrastructure with minimal effort. You can also find me interacting in various repos related to k8s, TUIs, or some sort of IaC or CI/CD thing.
 
-I also regularly update my [star lists] with projects I find interesting.
+For fun, I regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting.
 
-[star lists]: https://github.com/jessebot?tab=stars "stars list"
+Huge thank you to the open source community for helping to make my dreams come true 💙
