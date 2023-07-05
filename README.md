@@ -6,12 +6,12 @@ favorite:
     - python
     - kubernetes
     - nextcloud
-    - 'slim cuda images'
     - neovim
     - mastodon
   small_talk_prompts:
     - 'So, what tools do you use in the terminal?'
     - 'Play any wholesome videogames lately?'
+    - 'What is a "slim" cuda image?'
   food:
     ice_cream:
       - 'black sesame'
