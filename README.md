@@ -3,13 +3,14 @@ core_info:
   employed: true
 favorite:
   tech:
-    - python
-    - kubernetes
-    - nextcloud
-    - neovim
-    - mastodon
+    - "Argo CD"
+    - Kubernetes
+    - Mastodon
+    - Nextcloud
+    - Neovim
+    - Python
   small_talk_prompts:
-    - 'So, what tools do you use in the terminal?'
+    - 'What tools do you use in the terminal?'
     - 'Play any wholesome videogames lately?'
     - 'What is a "slim" cuda image?'
   food:
@@ -19,8 +20,9 @@ favorite:
     fruit:
       - persimmons
       - avocado
-    - hummus
-    - 'most anything with tofu'
+    other:
+      - hummus
+      - 'most anything with tofu'
 ```
 
 #### Currently working on
