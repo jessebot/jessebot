@@ -26,7 +26,7 @@ favorite:
 ```
 
 #### Currently working on
-Disconnecting from Google/Twitter in every possible way, while maintaining secure and reliable open source infrastructure with minimal effort. You can also find me interacting in various repos related to k8s, TUIs, or some sort of IaC or CI/CD thing.
+Disconnecting from Google/Twitter in every possible way, while maintaining secure and reliable open source infrastructure with minimal effort. You can find me interacting in various repos related to k8s, TUIs, or some sort of IaC or CI/CD thing. I also spend a lot of time tending to low hanging infosec fruit with intent to leave the place better than I found it.
 
 For fun, I regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting.
 
