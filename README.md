@@ -3,30 +3,33 @@ core_info:
   employed: true
 favorite:
   tech:
-    - "Argo CD"
+    - ActivityPub based apps
+    - Argo CD
     - Kubernetes
-    - Mastodon
-    - Nextcloud
     - Neovim
+    - Nextcloud
     - Python
-  small_talk_prompts:
-    - 'What tools do you use in the terminal?'
+    - TUIs
+  talking_prompts:
     - 'Play any wholesome videogames lately?'
     - 'What is a "slim" cuda image?'
+    - 'What tools do you use in the terminal?'
+    - 'What is the state of FOSS secrets management in Kubernetes?'
+    - 'What can you run on a 100W solar panel in the middle of the summer?'
   food:
-    ice_cream:
-      - 'black sesame'
-      - pistachio
-    fruit:
-      - persimmons
-      - avocado
-    other:
+    beans:
       - hummus
-      - 'most anything with tofu'
+      - tofu
+    fruit:
+      - avocado
+      - persimmons
+    ice_cream:
+      - black sesame
+      - pistachio
 ```
 
 #### Currently working on
-Disconnecting from Google/Twitter in every possible way, while maintaining secure and reliable open source infrastructure with minimal effort. You can find me interacting in various repos related to k8s, TUIs, or some sort of IaC or CI/CD thing. I also spend a lot of time tending to low hanging infosec fruit with intent to leave the place better than I found it.
+Disconnecting from Google/Twitter in every possible way, while maintaining _secure **enough**_ and reliable open source infrastructure with minimal effort (but I actually put in a lot of effort). You can find me interacting in various repos related to k8s, TUIs, helm charts (so many helm charts) or some sort of IaC or CI/CD thing. I also spend a lot of time tending to low hanging infosec fruit with intent to leave the place better than I found it.
 
 For fun, I regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting.
 
