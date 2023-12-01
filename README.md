@@ -29,7 +29,7 @@ favorite:
 ```
 
 #### Currently working on
-Mutual TLS pass of all my personal k8s infra. In particular, I'm also moving all my helm charts to the [small-hack](https://github.com/small-hack) org, so that the RenovateBot App will keep them up to date for us. You can find me interacting in various repos related to TUIs, Kubernetes (especially anything related to helm charts... so many helm charts and argo repos) or some sort of IaC or CI/CD thing. I also spend a lot of time working on lifts and shifts of "not built for the cloud" software.
+Mutual TLS pass of all my personal k8s infra. In particular, I'm also moving all my helm charts to the [small-hack](https://github.com/small-hack) org, so that the RenovateBot App will keep them up to date for us. You can find me interacting in various repos related to TUIs, Kubernetes (especially anything related to helm charts... so many helm charts and argo repos) or some sort of IaC or OAuth/OIDC or CI/CD thing. I also spend a lot of time working on lifts and shifts of "not built for the cloud" software.
 
 For fun, I regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting. I do refinements once every 6 months or so.
 
