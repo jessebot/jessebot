@@ -1,6 +1,6 @@
 ```yaml
 core_info:
-  employed: true
+  available_for_employment: true
 favorite:
   tech:
     - ActivityPub based apps
