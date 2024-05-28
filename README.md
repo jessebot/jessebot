@@ -48,3 +48,5 @@ You can always find me interacting in various repos related to TUIs, Kubernetes 
 For fun, I regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting. I do refinements once every 6 months or so.
 
 Huge thank you to the open source community for helping to make my dreams come true 💙
+
+*If you send me a sales email I will mark it as spam.*
