@@ -49,4 +49,4 @@ For fun, I regularly update my [star lists](https://github.com/jessebot?tab=star
 
 Huge thank you to the open source community for helping to make my dreams come true 💙
 
-*If you send me a sales email I will mark it as spam.*
+<sub>*If you send me a sales email, I will mark it as spam.* If you just wanna talk, offer me a job, or ask me a question though, feel free!</sub>
