@@ -48,4 +48,4 @@ For fun, I regularly update my [star lists](https://github.com/jessebot?tab=star
 
 Huge thank you to the open source community for helping to make my dreams come true 💙
 
-<sub>*You can contact me via email if you download my resume from jessebot.io.*</sub>
+<sub>*You can contact me via email if you download my resume from [jessebot.work](https://jessebot.work).*</sub>
