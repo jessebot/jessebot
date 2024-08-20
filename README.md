@@ -1,6 +1,8 @@
 ```yaml
 core_info:
   available_for_employment: true
+  on_vacation: true
+  vacation_end: "Aug 31, 2024"
 personal_projects:
   - small-hack/smol-k8s-lab
   - jessebot/onboardme
