@@ -37,8 +37,10 @@ favorite:
 
 #### Currently working on
 
-- zero unread GitHub notifications (the hardest challenge of my career)
-- Mutual TLS pass of all my personal k8s infra - a larger project than I realized
+- getting forgejo and ghost setup with @cloudymax
+  - then I'll be migrating everything here to Forgejo!
+- zero unread GitHub notifications (the second hardest challenge of my career)
+- Settuping up OPA or Kyverno
 - Tinkering with supporting [openbao](https://openbao.org/) in [smol-k8s-lab](https://github.com/small-hack/smol-k8s-lab)
 - [onboardme](https://github.com/jessebot/onboardme/tree/feature/add-tui) is getting its first TUI
 - [nextcloud helm chart](https://github.com/nextcloud/helm) support always when I have a spare moment 🩵
