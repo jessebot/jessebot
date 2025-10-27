@@ -38,7 +38,7 @@ favorite:
 #### Currently working on
 
 - getting forgejo and ghost setup with @cloudymax
-  - then I'll be migrating everything here to Forgejo!
+  - then I'll be migrating everything here to Forgejo and the really important stuff will be backed up to codeberg. All of my repos here will slowly become public archives.
 - zero unread GitHub notifications (the second hardest challenge of my career)
 - Settuping up OPA or Kyverno
 - Tinkering with supporting [openbao](https://openbao.org/) in [smol-k8s-lab](https://github.com/small-hack/smol-k8s-lab)
