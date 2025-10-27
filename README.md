@@ -18,7 +18,6 @@ favorite:
     - TUIs
   talking_prompts:
     - 'Play any wholesome videogames lately?'
-    - 'What is a "slim" cuda image?'
     - 'What tools do you use in the terminal?'
     - 'What is the state of FOSS secrets management in Kubernetes?'
     - 'What can you run on a 100W solar panel in the middle of the summer?'
