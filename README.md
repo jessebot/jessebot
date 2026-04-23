@@ -46,5 +46,3 @@ You can always find me interacting in various repos related to TUIs, Kubernetes 
 For fun, I still try to regularly update my [star lists](https://github.com/jessebot?tab=stars) with projects I find interesting.
 
 Huge thank you to the open source community for helping to make my dreams come true 💙
-
-<sub>*You can contact me via email if you download my resume from [jessebot.work](https://jessebot.work).*</sub>
